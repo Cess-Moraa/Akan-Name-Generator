@@ -11,17 +11,22 @@
     <h1>Akan Name Generator</h1>
     <p>Enter your birthdate and gender to find out your Akan name based on the day you were born.</p>
     <form id="akanform">
-        <label>Date of Birth</label>
-        <div class="date-row">
-            <label> Day</label><input type="number" id="day" placeholder="DD" required>
-            <label> Month</label><input type="number" id="month" placeholder="MM" required>
-           <label> Year</label> <input type="number" id="year" placeholder="YYYY" required>
-        </div>
-        <label>Gender:</label>
-        <div class="radio-group">
-           <label><input type="radio" name="gender" value="male"> Male</label> 
-           <label><input type="radio" name="gender" value="female"> Female</label> 
-        </div>
+        <label>Date of Birth
+            <div class="date-row">
+                <label for="day"> Day</label>
+                <input type="number" id="day" placeholder="DD" required>
+                <label for="month"> Month</label>
+                 <input type="number" id="month" placeholder="MM" required>
+                 <label for="year"> Year</label> 
+                 <input type="number" id="year" placeholder="YYYY" required>
+                </div>
+        </label>
+        <label>Gender:
+             <div class="radio-group">
+                <label><input type="radio" name="gender" value="male"> Male</label> 
+                <label><input type="radio" name="gender" value="female"> Female</label> 
+            </div>
+        </label>
         <button type="submit">Get Akan Name</button>
     </form>
     <div id="result"></div>
