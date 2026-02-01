@@ -34,7 +34,7 @@ To run this project locally:
 3. Open the project in VS Code:
     ```bash
     code
-4. Open index,html in your browser or run using Live sever.
+4. Open index.html in your browser or run using Live sever.
 ---
 ## 🧪 Behavior Driven Development (BDD)
 
