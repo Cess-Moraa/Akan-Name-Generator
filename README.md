@@ -19,6 +19,7 @@ input validation.
 
 ## 🌐 Live Site
 👉 https://cess-moraa.github.io/Akan-Name-Generator/
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -34,7 +35,7 @@ To run this project locally:
     
     code
 4. Open index,html in your browser or run using Live sever.
-
+---
 ## 🧪 Behavior Driven Development (BDD)
 
 | Behavior | Input | Output |
@@ -44,14 +45,14 @@ To run this project locally:
 | User submits empty form | No input | Alert message shown |
 | User selects male gender | Valid date + male | Male Akan name displayed |
 | User selects female gender | Valid date + female | Female Akan name displayed |
-
+---
 ## 💻 Technologies Used
 - HTML
 - CSS
 - JavaScript
 - Git & Github
 - VS Code
-
+---
 ## ✅ Project Requirements Checklist
 - Uses HTML forms to collect user input
 - Validates date and month input
@@ -62,14 +63,15 @@ To run this project locally:
 - Deployed on GitHub Pages
 - Regular Git commits with clear messages
 
+---
 ## 🐞 Known Issues
 There are currently no known bugs. The application works as expected
-
+---
 ## 📜 License
 This work is licensed under The MIT License https://opensource.org/license/MIT.
 
 Copyright (c) 2026 Cecilia Moraa
-
+---
 ## 📬 Contact Information
  For any questions or feedback, feel free to reach out:
 
