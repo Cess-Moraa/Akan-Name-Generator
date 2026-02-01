@@ -18,7 +18,7 @@ input validation.
 ---
 
 ## 🌐 Live Site
-👉 
+👉 https://cess-moraa.github.io/Akan-Name-Generator/
 ---
 
 ## ⚙️ Setup Instructions
