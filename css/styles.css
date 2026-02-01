@@ -6,3 +6,34 @@ body {
     align-items: center;
     height: 100vh;
 }
+.container {
+    background: white;
+    padding: 25px;
+    width: 320px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+p {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+}
+form {
+    margin-top: 15px;
+}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+input{
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+}
+.radio-group {
+    margin-bottom: 8px;
+}
