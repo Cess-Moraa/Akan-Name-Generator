@@ -31,9 +31,9 @@ document.getElementById("akanform").addEventListener("submit", function (e) {
 
   let akanName = gender.value === "male" ? maleNames[d] : femaleNames[d];
 
-  document.getElementById("results").innerHTML =
+  document.getElementById("result").innerHTML =
     `You were born on a <strong>${days[d]}</strong>.<br>
-     Your Akan name is <strong>${akanName}</strong>.`;
+     Your Akan name is <span>${akanName}</span>.`;
 
   document.getElementById("akanform").reset();
 });
