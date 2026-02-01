@@ -29,10 +29,10 @@ To run this project locally:
    ```bash
    git clone https://github.com/Cess-Moraa/Akan-Name-Generator.git
 2. Navigate to the project directory:
-
+    ```bash
    cd akan-name-generator
 3. Open the project in VS Code:
-    
+    ```bash
     code
 4. Open index,html in your browser or run using Live sever.
 ---
