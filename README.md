@@ -66,12 +66,15 @@ To run this project locally:
 ---
 ## 🐞 Known Issues
 There are currently no known bugs. The application works as expected
+
 ---
 ## 📜 License
 This work is licensed under The MIT License https://opensource.org/license/MIT.
 
 Copyright (c) 2026 Cecilia Moraa
+
 ---
+
 ## 📬 Contact Information
  For any questions or feedback, feel free to reach out:
 
