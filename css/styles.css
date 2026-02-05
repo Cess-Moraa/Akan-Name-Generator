@@ -10,15 +10,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: radial-gradient(circle at top, #eef5ff, #f7faff);
+  background: radial-gradient(circle at top, #84afea, #b7caea);
 }
 
 .container {
   background: white;
-  padding: 35px, 40px;
+  padding: 30px, 40px;
   width: 750px;
   border-radius: 18px;
-  box-shadow: 0 20px 45px rgba(0,0,0,0.12);
+  box-shadow: 0 20px 45px rgba(237, 144, 144, 0.12);
 }
 
 h1 {
@@ -69,11 +69,8 @@ input [type="number"] {
   border: 1px solid #ccc;
   font-size: 14px;
   height: 40px;
-}
-
-input [type="number"] {
-    outline: none;
-    border-color: #1f5fbf;
+  outline: none;
+  border-color: #1f5fbf;
 }
 
 .radio-group {
@@ -103,8 +100,11 @@ button {
 button:hover {
   filter: brightness(1.05);
   opacity: 0.9;
+  background: orangered;
 }
-
+button:active {
+  background: orchid
+}
 #result {
   margin-top: 30px;
   text-align: center;
